@@ -1283,3 +1283,568 @@ Primary RTSA using both an implant with a medialized glenoid and an inlay humera
 reoperations and complications were 5% to 8% and 14% to 20%, respectively. Aside from better active elevation in the M group, no substantial differences were found between the 2 implant styles in terms of clinical out-comes, complications, and reoperations. The M group had higher overall rates of notching, although differ-ences in rates of severe notching were not statistically significant between the 2 groups. Almost 50% of the patients who underwent the procedure died within 10 years with a presumed satisfactory implant in place. The results of this study can only be extrapolated to primary RTSA for cuff tear arthropathy, but they definitely pro-vide a benchmark for comparison with newer implants, especially considering that the procedures reported here do include the early learning curve for implantation of RTSA at our institution.
 
 
+Shoulder Arthroplasty in Patients with Juvenile Idiopathic Arthritis:Long-Term Outcomes
+
+Erick M. Marigi, MD, Dustin Lee, MD, Ian Marigi, BA, Jean-David Werthel, MD, Jonathan D. Barlow, MD, John Sperling, MD, Joaquin Sanchez-Sotelo, MD, Bradley S. Schoch, MD
+
+PII:	S1058-2746(21)00551-6
+
+DOI:	https://doi.org/10.1016/j.jse.2021.06.014
+
+
+Shoulder Arthroplasty in Patients with Juvenile Idiopathic Arthritis:
+Long-Term Outcomes
+
+
+Running Title: Shoulder Arthroplasty in Juvenile Idiopathic Arthritis
+
+
+Background: Juvenile idiopathic arthritis (JIA) is the most common chronic rheumatologic
+3
+disease that occurs in the pediatric population. Often, JIA continues throughout life leading to
+4
+progressive polyarticular arthritis and significant joint destruction and disability, oftentimes
+5
+requiring replacement surgery. This study aimed to determine the outcomes of primary shoulder
+6
+arthroplasty (SA) in patients with JIA.
+7
+Methods: Over a 42-year time period (1977 – 2019), 67 primary SA (20 hemiarthroplasty (HA),
+
+proof
+8
+38 anatomic total shoulder arthroplasty (TSA), and 9 reverse sh ulder arthroplasty (RSA)) with a
+9
+prior diagnosis of JIA formally established in a multi-disci lina y rheumatologic clinic met
+10
+inclusion criteria. Further assessment was perform d with inclusion    the visual analog scale
+
+11 (VAS) pain score, active shoulder range of motion (ROM), imaging studies, complications, and
+
+12 implant survivorship free from reoperation and revision.
+
+13 Results: SA led to substantial improvements in pain and ROM across the entire cohort at an
+
+14 average follow-up period of 12.2 years (range, 2– 34 years). TSA was associated with the lowest
+
+15 pain scores (0.8; p = 0.02) and the highest ASES scores (77.4; p = 0.04) at most recent follow-up
+
+16 when compared to HA and RSA. There were 14 (21%) complications across the cohort with
+
+17 rotator cuff failure (n=4; 5.9%) as the most common complication followed by infection (n=3;
+
+18 4.5%). Revision surgery was performed in 5 shoulders (7.5%), with five-year implant survival
+
+19 rates of 95.1% at five years, 93% at ten years, 89.4% at twenty years, and 79.5% at thirty years.
+
+20 At 30 years, TSA was associated with better survival (90.1%) when compared with HA (71.8%).
+
+21 Conclusions: Primary shoulder arthroplasty in the form of HA, TSA, and RSA offers a reliable
+
+22 surgical option for JIA patients with respect to pain reduction and ROM improvements. Unique
+
+23 challenges still exist in this cohort, in particular younger patients with an elevated propensity for
+
+
+glenoid bone erosion and a complication rate of 20.9%. As such, HA may not be ideal in this patient population. However, despite rotator cuff and glenoid concerns, TSA seems to be associated with better pain relief and patient reported outcomes with the most durability in the long term when compared to HA.
+
+      Juvenile idiopathic arthritis (JIA) is the most common chronic rheumatic disease in the pediatric population.14 JIA is a heterogeneous dis ase that is diagnosed when any form of
+
+arthritis persists for 6 weeks or greater in a child of 16 years of age or younger and is of unknown etiology.14 TheJournal7differetsubtypes of JIA are classified according to the number of
+
+joints affected, serology and ext ticular manifestations. Accounting for all categories, JIA occurs in approximately 1 in 1,000 children and is diagnosed via history and physical examination, with joint stiffness being the most specific presenting symptom.2 Even with advancements in medical management, joint replacement surgery represents the standard treatment for patients with recalcitrant pain and decreasing function secondary to progressive inflammatory joint degeneration.
+
+      Patients with severe JIA and polyarticular involvement often undergo multiple joint replacement procedures, with the hip and knee being the most commonly and earliest affected joints. Consequently, most of the contemporary literature guiding orthopedic surgeons caring for patients with JIA is centered around the hip and knee.13 Pathology at the glenohumeral joint also
+
+47 causes substantial disability, but often occurs later in the disease course with 15% of patients
+
+48 being affected at 15 years.11
+
+49	Despite the documented success of total hip arthroplasty (THA)3 and total knee
+
+50 arthroplasty (TKA)12 in JIA, there remains paucity of information regarding the outcome of
+
+51 shoulder arthroplasty (SA) in this unique patient cohort. Madanipour et al11 recently performed a
+
+52 review of the available 4 studies reporting outcomes on 50 JIA patients receiving 58 shoulder
+
+53 replacements, with 33 hemiarthroplasties (HA) and 25 anatomic total shoulder arthroplasties
+
+54 (TSA).7,19 Overall, they demonstrated improvement in patient satisfacti  n and pain relief, but
+
+55 also highlighted the need for additional investigations with la ger numbers, longer term data, and
+
+56 less heterogeneity. Accordingly, the purpose of this study was to review our outcomes following
+
+57	primary SA performed in patients with JIA. The p	s nt investigation reports on (i) clinical
+
+58 outcomes in terms of functional outcome measures and radiographic analysis, (ii) postoperative
+
+59 complications, and (iii) implant survivorship free from reoperation and revision.
+
+
+62 MATERIALS AND METHODS
+
+63	Approval was first obtained from our Institutional Review Board (IRB) followed by data
+
+64 acquisition from a prospectively recorded Institutional Total Joint Registry. This registry
+
+65 prospectively captures data regarding complications, implant survival and patient-reported
+
+66 outcomes using a standardized data collection form as described previously. Data collection
+
+67 intervals include 1, 2, and 5 years postoperatively, and then every 5 years thereafter. For patients
+
+68 unable to return physically, they are requested to complete and return a validated outcomes
+
+69 questionnaire along with radiographs.17All adults who underwent a primary shoulder arthroplasty (n = 10,503) between January 1977 and December 2019 were identified. A subsequent review
+
+71 identified all patients with a diagnosis of juvenile idiopathic arthritis (JIA) (n = 79), as defined as
+
+72 only those patients formally diagnosed by team members of a multi-disciplinary rheumatologic
+
+73 clinic. Patients with a concomitant diagnosis of malignancy (n = 1), treatment with a metal
+
+74 backed glenoid component (n = 6), death secondary to unrelated events from index surgery (n =
+
+75 2), or less than 2 years of clinical follow-up were excluded (n = 3). The final cohort consisted of
+
+76 67 primary shoulder replacements (20 hemiarthroplasty (HA), 38 anatomic total shoulder
+
+77 arthroplasty (TSA), and 9 reverse shoulder arthroplasty (RSA)).
+
+78	Implant use for the entire cohort varied by surgeon. HA implants consisted of the Cofield
+
+79 2 shoulder prosthesis in 11 shoulders (Smith & N ph w, Memphis, TN, USA), Neer II shoulder
+
+80 prosthesis in 6 shoulders (3M Company, St Paul, MN, USA), and Bio-modular shoulder
+
+81 prosthesis in 3 shoulders (Biomet, Warsaw, IN, USA). TSA consisted of the Cofield 2 anatomic
+
+82 prosthesis in 16 shoulders (Smith & Nephew, Memphis, TN, USA), Neer II anatomic prosthesis
+
+83 in 12 shoulders (3M Company, St Paul, MN, USA), Comprehensive anatomic prosthesis in 4
+
+84 patients (Biomet, Warsaw, IN, USA), Aequalis anatomic shoulder prosthesis in 3 patients
+
+85 (Tornier/Viking, Montbonnot, France), ReUnion anatomic shoulder prosthesis in 2 patients
+
+86 (Stryker, Kalamazoo, MI, USA), and Bigliani/Flatow shoulder prosthesis in 1 patient (Zimmer,
+
+87 Warsaw, IN, USA). RSA implants consisted of the Comprehensive reverse prosthesis in 6
+
+88 patients (Biomet, Warsaw, IN, USA), ReUnion reverse prosthesis in 2 patients (Stryker,
+
+89 Kalamazoo, MI, USA), and Aequalis reverse prosthesis in 1 patient (Tornier/Viking,
+
+90 Montbonnot, France).
+
+91	Operative intervention was completed by 1 of 8 upper extremity surgeons at a single
+
+92 institution. Indications for surgery was symptomatic glenohumeral arthritis refractory to
+
+nonoperative treatment. The decision between implantation of various shoulder arthroplasty techniques (HA, TSA, RSA) was determined by the treating surgeon based on a combination of physical exam, rotator cuff status, and glenoid bone loss. RSA was not available for use until 2004, and as such all arthroplasties performed prior to that year were either HA (n = 17, 25.4%) or TSA (n = 19, 28.4%). After 2004, only 4 (6.0%) HA were performed but TSA use persisted with another 19 (28.4%) replacements. A standard deltopectoral approach was uniformly utilized. Glenoid bone grafting was performed in 2 shoulders (3%) with morselized cancellous graft in 1 TSA and structural graft in 1 TSA; of note, the structural graft was performed before RSA was available to the institution. Humeral bone grafting was performed in the remaining 4 shoulders (6%) with morselized cancellous autograft in 2 HA and 2 TSA. Additional procedures at the time of hemiarthroplasty were performed in 4 (6%) shoulders. These consisted of 3 rotator cuff repairs (2 TSA and 1 HA) and 1 lysis of adhesions in a HA.
+
+      A concurrent reviewJournalofistitutional Total Joint Registry Database as well as electronic medical record review was completed to obtain pre- and postoperative 10-point visual
+
+analog pain scale scores, active range of motion measurements assessed in 3 planes (forward elevation, external rotation, and internal rotation), strength in 3 planes, and the American Shoulder and Elbow Surgeons Shoulder Assessment Form (ASES) score. Forward elevation and external rotation were measured in degrees, internal rotation was measured by the level reached by the thumb according to the scale by Flurin et al5. Additional clinical outcomes of interest included postoperative complications, and implant survivorship free from reoperations or revision surgery (revision being defined as subsequent removal and/or exchange of any components). JIA in SA
+116
+Pre- and postoperative imaging was independently reviewed by two surgeons (E.M.M
+117
+and B.S.S) in order to analyze the preoperative glenohumeral morphology and postoperative
+118
+implant changes. Preoperative severity of arthritis was determined by the Larsen et al
+119
+classification.9 When applicable, postoperative humeral head subluxation was classified
+120
+according to direction and graded mild, moderate, or severe according to the Torchia et al
+121
+classification.20 Postoperative glenoid erosion after HA was graded according to the method
+122
+proposed by Sperling et al.18 Postoperative radiolucencies    the glenoid and humeral component
+
+proof
+123
+were graded according to Lazarus et al10 and Sanchez-Sotelo et al,15 respectively. For RSA,
+124
+scapular notching was graded according to the Nerot-Sirveaux g ading system.22
+125
+Data was statistically analyzed using JMP 14.1.0 software (SAS Institute Inc, Cary, NC,
+
+126 USA). Continuous variables were reported as m ans with ranges. Group means were compared
+
+127 utilizing student’s t-tests. Categorical variab es were analyzed using the ?2 test, or the Fisher
+
+128 exact test given low counts of some comp risons. Kaplan-Meier survival curves were generated
+
+129 to determine survivorship free f om  eoperation and revision. For all data points, statistical
+
+130 significance was considered to be achieved when the p value was less than 0.05.
+
+131
+
+132
+
+133 RESULTS
+
+134	A total of 67 primary shoulder SA (20 HA, 38 TSA, 9 RSA) met inclusion criteria. There
+
+135 were 58 females (86.6%) and 9 males (13.4%) with a mean age of 42.2 ± 15.6 and BMI of 26.0 ±
+
+136 6.5 at the time of surgery. Pertinent co-morbidities included chronic steroid use in 20 (29.9%)
+
+137 patients, treatment with disease modifying anti-rheumatic drugs (DMARD) in 14 (20.9%)
+
+138 patients, and prior surgery in 4 (6%) patients. Notable differences between implant groups (HA
+
+
+
+
+vs. TSA vs. RSA) included a younger age of surgery in HA (39 vs. 40.5 vs. 56.6; p = 0.001), shortest time between JIA diagnosis and surgery in HA (29.3 vs. 31.7 vs. 45.9; p = 0.02), and longest follow-up in HA (16.9 vs. 11.7 vs. 3.7; p =0.002). Additional, baseline demographic characteristics are detailed in Table 1.
+
+Functional Outcomes
+
+      At a mean follow-up of 12.2 years (range, 2 to 34 years), shoulder arthroplasty in patients with JIA demonstrated improvements in pain (8.0 to 1.1; P < 0.001), orward elevation (85.8? to 123.0?; P < 0.001), external rotation (23.8? to 42.5?; P < 0.01) and internal rotation (2.9 to 4.4; P = 0.03) (Table 2). At final follow-up the mean VAS was 1.1 ± 0.9 and the mean ASES score was 75.2 ± 9.4. When analyzed according to implant style, ostoperative pain was the lowest after TSA (0.8 ± 0.3), followed by HA (1.4 ± 0.4), and RSA (2.7 ± 0.6, p = 0.02). Further pairwise
+
+comparisons demonstratedJournalsignificantdifference in favor of TSA over RSA p = 0.02). Postoperative ASES was the highest fter TSA (77.4 ± 3.5), followed by RSA (77.0 ± 1.5), and
+
+HA (70.8 ± 2.1, p = 0.04). Additional pairwise comparisons demonstrated a significant difference between TSA and HA (p = 0.04). With the numbers available, no implant differences were observed in forward elevation (P = 0.71), external rotation (P = 0.77), internal rotation (P = 0.71), forward elevation strength (P = 0.47), external rotation strength (P = 0.51), or internal rotation strength (P = 0.66) (Table 3).
+
+Radiographic Analysis
+
+      A total of 54 shoulders (80.6%) had preoperative imaging available. Glenohumeral joint changes were classified via the Larsen classification as grade III in 3, grade IV in 34, grade V in 16 shoulders. At the time of most recent follow-up, 58 of 67 shoulders (86.6%) had a complete postoperative Grashey and axillary film series allowing for review. Across all HA and TSA,
+
+
+162 humeral head subluxation was observed in 25 of 49 shoulders (51%), most commonly with a
+
+163 superior direction (n = 22). Radiolucent lines across all implant humeral stems were observed in
+
+164 12 of 58 shoulders (20.7%), most commonly at zone 1 (n = 9).
+
+165	Of the 16 HA available for review, glenoid erosion was present in 15 shoulders (93.7%):
+
+166 mild in 3, moderate in 6, and severe in 6. Humeral head subluxation was observed in 10 of 16
+
+167 shoulders (62.5%): 9 superior (mild = 4, moderate = 1, severe = 4) and 1 anterior. Humeral
+
+168 periprosthetic radiolucency was observed in 1 shoulder (6.3%) at zone 8. Of the 33 TSA
+
+169 available for review, 16 (48%) shoulders demonstrated radi lucencies about the glenoid
+
+170 component with a mean grade of 1.3. The Lazarus score was g ade 0 in 13 shoulders, grade 1 in
+
+171 4, grade 2 in 3, grade 4 in 3, and grade 5 in 4. Hum ral head subluxation was observed in 15 of
+
+172	33 shoulders (45.5%): 13 superior (mild = 4, mod	ate = 4, severe = 5) and 2 anterior. Humeral
+
+173 sided lucencies were observed in 10 of 33 (30.3%) shoulders: 7 in zone 1, 4 in zone 7, 1 in zone
+
+174 8. All 9 RSA were available for review; sc pular notching was noted in 2 of 9 shoulders (22.2%)
+
+175 at a severity of grade 1 for both shoulders. Humeral periprosthetic radiolucency was observed in
+
+176 1 of 9 (11%) shoulders at z  ne 1.
+
+177 Complications
+
+178	Perioperative complications were found in 14 (20.9%) of the shoulders, with rotator cuff
+
+179 failure (n=4; 5.9%) as the most common complication, followed by infection (n=3; 4.5%),
+
+180 aseptic component loosening (n=2; 3%), and nerve palsy / neuropathy (n=2; 3%). A subanalysis
+
+181 was performed comparing the various complication profiles by implant type (Table 4). There
+
+182 were 4 of 20 (20.0%) HA complications of which the most common was rotator cuff failure (n =
+
+183 2; 10%). There were 8 of 38 (21.1%) TSA complications of which the most common was rotator
+
+184 cuff failure (n = 2; 5.3%), infection (n = 2; 5.3%), and nerve palsy / neuropathy (n = 2; 5.3%).
+
+
+185 There were 2 of 9 (22.2%) RSA complications consisting of 1 (11.1%) aseptic humeral
+
+186 component loosening and 1 (11.1%) scapular spine fracture.
+
+187 Survivorship free from Reoperation, and Revision
+
+188	Reoperations were all in the form of revisions and occurred in 5 shoulders (7.5%), which
+
+189 consisted of a conversion to a HA for glenoid baseplate loosening in a TSA (1), conversion to a
+
+190 RSA for progressive glenoid arthrosis in a HA (1), revision RSA for humeral component
+
+191 loosening (1), conversion to RSA for instability in a TSA (1), and component removal and
+
+192 antibiotic spacer placement for deep infection in a TSA (1). Overall survival from reoperation /
+
+193 revision was found to be 97.0% at two years, 95.1% at five yea s, 93.0% at ten years, 89.4% at
+
+194 twenty years, and 79.5% at thirty years (Fig. 1). Wh n compared across implants the five-year
+
+195 survival rates were 89.7%, 100%, and 88.9% for HA, TSA, and RSA respectively (p = 0.22).
+
+196 After five years, only HA and TSA had avai able survivorship data with subsequent survival of
+
+197 89.7% and 96.5% at ten years, 89.7%   d 90.1% at twenty years, and 71.8% and 90.1% at 30
+
+198 years (Figure 1).
+
+199
+
+200 DISCUSSION
+
+201	JIA represents a chronic rheumatologic disease that occurs in the pediatric population and
+
+202 often continues to progress throughout life, leading to progressive polyarticular arthritis,
+
+203 substantial joint destruction, and disability.2 Pathology at the glenohumeral joint causes disability
+
+204 but often occurs later in the disease course, with 15% of patients being affected at 15 years.11
+
+205 Although shoulder JIA causes substantial reductions in quality of life and can severely interfere
+
+206 with activities of daily living, there continues to be limited outcome data in the contemporary
+
+207 literature to direct shoulder surgeons in the management of this population. In our reported
+
+
+
+cohort of 67 primary SA in patients with juvenile inflammatory arthritis, excellent clinical outcomes were shown, with significant improvements in pain, forward elevation, external rotation, and internal rotation. Complications did occur in 20% of patients, with implant survivorship of 80% at 30 years.
+
+      This study represents one of the largest series to report exclusively on primary SA in patients with JIA. Of the few published studies available, there are reports of improved pain relief and functional scores following SA in JIA.7,8,11,19 In 2005, Thomas et al reported on nine HAs with systemic or polyarticular JIA observing excellent pain relief and improvements in the Constant-Murley Score (CMS) at a mean follow-up of six yea s. Functional improvements were also noted to deteriorate over time in their cohort which was attributed to the progression of the systemic disease.19 Later in 2018, Ibrahim et al po t d on 14 resurfacing HAs with a mean
+
+follow-up of 10.4 years. They also reported excellent pain relief with 8 of 14 shoulders pain free, and the remainder reportingJournalonlymildpin and final follow-up. The CMS and Oxford Shoulder Score (OSS) were utilized to measu e function. Six shoulders had a very good or excellent
+
+outcome and 8 shoulders had good or fair outcome on CMS.7 Jolles et al reported on 13 patients with severe polyarticular JIA treated with SA (12 HA, 1 TSA) with 9-year follow-up. Pain significantly decreased following surgery by a mean of 6.7 using the VAS. They reported significant improvements in both forward elevation and external rotation but final SF-36 and DASH results were poor.8 The results of the present study are comparable to past studies that SA in JIA can lead to reliable decreases in pain and satisfactory functional improvements. One unique aspect of the current investigation is comparisons across various implants with TSA demonstrating the most significant improvement in final postoperative pain (0.8) and ASES score (77.4) as compared to HA and RSA.
+231	Patients with inflammatory arthritis and JIA present the treating surgeon with several
+
+232 unique challenges in executing the replacement. Immunosuppressing medications, rotator cuff
+
+233 disease, severe glenoid erosion and osteopenia are common characteristics in this patient
+
+234 population that can lead to elevated complication rates. In the Madanipour et al 11 review of the
+
+235 JIA literature to date, a 17% pooled complication rate was observed across all 4 studies
+
+236 reviewed. These complications included 3 intraoperative humeral fractures (2 HA and 1 TSA)
+
+237 that did not require additional fixation and 1 axillary nerve palsy (HA) that resolved over time in
+
+238 the Jolles et al cohort8. Deshmukh et al observed 1 TSA disl  cati  n in p st op day 1 that was
+
+239 treated with closed reduction and 1 TSA prosthetic joint infecti  n 10.4 years following the index
+
+240 procedure.4 Thomas et al observed 1 open excision of the acromioclavicular joint for ACJ
+
+241 arthritis and 1 persistent lateral forearm paraesth sias in HA.19  Finally, Ibrahim et al observed 2
+
+242 patients with subsequent subacromial impingement requiring arthroscopic subacromial
+
+243 decompression at 6 months after resurf cing HA. The present cohort observed a comparable but
+
+244 elevated complication rate of 21%, of which rotator cuff failure (6%) was the most common.
+
+245 This may partially be explained by the extended follow-up in this study (mean 12 years). With
+
+246 time, rotator cuff disease can be expected to progress, with rotator cuff tearing having been
+
+247 shown to increase over time following TSA.16,21 This highlights the importance of careful soft
+
+248 tissue balancing during TSA implantation in order to mitigate the likelihood of late rotator cuff
+
+249 failure and promote prosthesis longevity. Additionally, it is important to note that intra-operative
+
+250 fractures were not observed in this cohort despite the elevated concern from previous
+
+251 investigations.
+
+252	In comparison to rheumatoid arthritis, patients with JIA often experience prolonged
+
+253 periods of disease duration before arthroplasty, with joint replacement surgery commonly being
+
+254 completed at a relatively young age.13 In the limited JIA shoulder arthroplasty literature, mean
+
+255 age at time of arthroplasty has been reported at 32, 33.1, 36.4 and 60.3 years of age in the
+
+256 Thomas et al 19, Jolles et al 8,Ibrahim et al 7, and Deshmukh et al4 investigations respectively.
+
+257 Comparing with the rheumatoid literature, Barlow et al performed a similar investigation
+
+258 reporting on 303 consecutive shoulder arthroplasties (108 HA, 195 TSA) in rheumatoid arthritis
+
+259 with a minimum 5-year follow-up.1 In this cohort the average age was 55 years, approximately
+
+260 13 years older than the JIA cohort. Interestingly, they observed a 9% overall complication rate
+
+261 with 19 (9.7%) complications in the TSA group with and 9 (8.3%) c mplications in the HA
+
+262 group. In the TSA cohort, 10 (6.1%) nerve injuries, 4 (2.4%) int a perative fractures, 3 (1.8%)
+
+263 wound problems, 1 (0.6%) postoperative humeral shaft fracture, and 1 (0.6%) deltoid tear
+
+264 requiring intraoperative repair were observed. The HA group had 5 (5.5%) intraoperative
+
+265 fractures, 3 (3.3%) nerve injuries, and 1 (1.1%) wound problem.1 Recent systematic review on
+
+266	TSA in rheumatoid arthritis by Haleem et	l also observed an older aged cohort with a mean of
+
+267 68 years and a lower complication  ate of 9% compared to the present JIA study. 6 The present
+
+268 cohort received an arthr  plasty procedure at an average of 42 years, with a mean of 33 years
+
+269 from JIA diagnosis to surgery. Furthermore, this group of JIA patients experienced a 21%
+
+270 complication rate. These findings support the evidence that JIA often results in a younger age at
+
+271 the time of arthroplasty, and a higher complication rate especially when compared to rheumatoid
+
+272 arthritis.
+
+273	Despite the elevated complication rate in the present cohort, SA demonstrated excellent
+
+274 mid-term and good long-term survivorship in this patient population. Overall survival from
+
+275 reoperation / revision was found to be 95.1% at five years, 93.0% at ten years, 89.4% at twenty
+
+276 years, and 79.5% at thirty years. When compared across implants the five-year survival rates
+
+
+
+were the highest with TSA at 100% followed by 89.7% for HA, and 88.9% for RSA. At final follow-up, TSA still had the best survivorship with 90.1% at 30 years, with HA now having the lowest survival with 71.8% at 34 years. Part of this discrepancy likely represents progression of inflammatory arthritis and development of painful glenoid erosion, which is alleviated by placement of a glenoid component. In further review of the current published JIA literature, mainly mid-term data is available. Interestingly, 3 of the 4 studies Thomas et al 19, Jolles et al8, and Ibrahim et al 7 demonstrated 100% survivorship free from revision in their cohorts with a mean follow-up of 6, 9, and 10 years, respectively. These excellent early results are similar to our cohort; however, the present investigation notes that as time c ntinues approximately 20% of patients will sustain some form of failure across all im lant ty es.
+
+The present investigation was not without limitations. Foremost, this was a retrospective
+
+analysis of a prospectively collected registry data. Additionally, less than 1% of the shoulder
+replacements performedJournalatistitutionduring the study period were performed on patients
+
+
+
+with JIA, resulting in relatively small sample size. There was no formal control group to which the JIA cohort could be c mpared. Furthermore, the implant groups were not matched for the preoperative degree of glenohumeral arthritis, subluxation, or presence of associated rotator cuff injuries. This may limit some of the direct comparisons across the various prosthesis. Additionally, patients with JIA were treated by one of 8 staff surgeons at our institution who may have slight variations in surgical techniques. To assess this we presented the principles behind surgical decision making, the ultimate implants utilized, and all available intra-operative findings. Finally, the available dataset did not include any detailed perioperative information about the medical management of JIA, its comorbid conditions, and whether patients were adherent to any possible medical treatment recommendations. As such, there may be some
+
+300 underlying bias based on when patients were diagnosed and the available treatment options at
+
+301 that time.
+
+302
+
+303 CONCLUSION
+
+304	Primary shoulder arthroplasty in the form of HA, TSA, and RSA offers a reliable surgical
+
+305 option for JIA patients with respect to pain reduction and ROM improvements. Unique
+
+306 challenges still exist in this cohort, younger patients with an elevated propensity for glenoid bone
+
+307 erosion and a complication rate of 20.9%. As such, HA may n t be ideal in this patient
+
+308 population. However, despite rotator cuff and glenoid conce ns, TSA seems to be associated with
+
+309 better pain relief and patient reported outcomes with the most durability in the long term when
+
+310 compared to HA.
+
+
+
+
+
+
+
+
+
+
+Shoulder Periprosthetic Joint Infection and All-Cause Mortality: A Worrisome Association
+
+Daniel C. Austin, MD, MS, Sarah H. Townsley, MD, Thomas H. Rogers, MD, Jonathan D. Barlow, MD, Mark E. Morrey, MD, MS, John W. Sperling, MD, MBA, and Joaquin Sanchez-Sotelo, MD, PhD
+
+Investigation performed at the Department of Orthopedic Surgery, Mayo Clinic, Rochester, Minnesota
+
+
+
+Background: Periprosthetic joint infection (PJI) can be a devastating complication following shoulder arthroplasty. PJI following hip and knee arthroplasties has been found to increase mortality. However, anatomical and bacteriologic differences could potentially result in a different trend after shoulder arthroplasties. Thus, the purpose of the present study was to determine whether there is an association between shoulder PJI and all-cause mortality.
+
+Methods: Our institutional Total Joint Registry Database was queried to identify patients who underwent revision shoulder arthroplasty procedures between 2000 and 2018. A total of 1,160 procedures were then classified as either septic (21.8%) or aseptic (78.2%). Septic revisions were further subdivided into (1) debridement, antibiotics, irrigation, and implant retention (9.1%); (2) 2-stage reimplantation for deep infection (61.3%); (3) implant resection without reim-
+
+plantation (3.6%); and (4) unexpected positive cultures at revision surgery (26.1%). The most common bacterium isolated was Cutibacterium acnes (64.4%). All-cause patient mortality was determined with use of our registry and confirmed with
+
+use of a nationwide mortality database. All-cause crude and adjusted mortality rates were then compared between groups.
+
+Results: The 1-year crude mortality rate was 1.8% (95% confidence interval [CI], 0.9% to 2.6%) for the aseptic group and 2.8% (95% CI, 0.7% to 4.8%) for the septic group (p = 0.31). Multivariate Cox regression analysis demonstrated an elevated but statistically similar adjusted hazard ratio for 1-year all-cause mortality of 1.9 (95% CI, 0.8 to 4.6) when comparing the septic to the aseptic group (p = 0.17). The risk of 2-year all-cause mortality was significantly higher in the
+
+septic group, with a hazard ratio of 2.2 (95% CI, 1.1 to 4.5; p = 0.029). In univariate analyses, increased 5-year mortality in the septic revision group was associated with age, Charlson Comorbidity Index, and methicillin-resistant Staphylococcus aureus infection, whereas C. acnes infection was associated with lower mortality.
+
+Conclusions: Shoulder PJI is associated with an adjusted 2-year all-cause mortality rate that is double that of aseptic patients. The results of the present study should be utilized to appropriately counsel patients who are considered to be at risk for infection following shoulder arthroplasty.
+
+Level of Evidence: Prognostic Level III. See Instructions for Authors for a complete description of levels of evidence.
+
+the utilization of primary shoulder arthroplasty in the TUnited States has increased dramatically over the last 2 decades and is projected to continue rising1-3. The incidence of shoulder periprosthetic joint infection (PJI) can be anticipated
+
+to rise accordingly4, as this complication is observed in approxi-mately 1% of patients4-7. Shoulder PJI has been associated with a number of factors including male sex, younger age, and reverse total shoulder arthroplasty4,5,7,8, although the impact of medical comor-bidities remains controversial4-9. The economic costs associated with 2-stage reimplantation for shoulder PJI are substantial4,10, not to mention the considerable impact on the quality of life of patients.
+
+
+
+     The typical 2-stage reimplantation treatment algorithm for shoulder PJI requires 2 revision arthroplasty procedures and long-term intravenous antibiotics10. Although the short-term mortality rate following primary total shoulder arthroplasty has been reported to range between 0.16% and 1.5% at 90 days11-13 and up to 3.8% at 1 year12,13, rates as high as 3% have been reported at 90 days fol-lowing revision shoulder arthroplasty in older patients14. Factors associated with mortality have included male sex and increased age15, but the direct impact of shoulder PJI on mortality is unknown.
+
+     The lower-extremity arthroplasty literature provides strong evidence that hip and knee PJI are associated with a 1.8 to 5-fold increase in the odds of 1-year mortality16,17. However, this relationship has not been studied for shoulder PJI, in which anatomic and bacteriologic5,7,16 differences may translate into different mortality rates. The purpose of the present study was to compare all-cause mortality rates between patients who underwent a surgical procedure for shoulder PJI and those who underwent a revision for aseptic failure. Further, for patients with a shoulder PJI, we sought to determine patient and infection characteristics associated with mortality. We hypothesized that PJI would increase mortality in patients undergoing revision shoulder arthroplasty.
+
+
+Materials and Methods
+
+Patient Cohort
+All revision shoulder arthroplasty procedures completed between 2000 and 2018 within a multi-hospital single academic health system were retrospectively identified from our  prospectively collected Total Joint Registry Database, yielding a total of 1,177 procedures. Patients were excluded if their arthroplasty was part of an oncologic reconstruction (11 patients), they had an antibiotic spacer for >1 year prior to reimplantation (5 patients), or records from referring hospitals were not available to classify them (1 patient). During this time period, 6,716 primary shoulder arthroplasty procedures were
+completed at our institution, highlighting that revision arthro-plasty accounts for 17% of procedures within our system. All living patients had at least 2 years of postoperative follow-up, with follow-up periods of <2 years representing deaths (average follow-up, 4.4 years; range, 3 days to 5 years). Aseptic revision procedures included all surgeries that involved exchange or replacement of any prosthetic component, without suspicion or postoperative treatment for infection.
+
+     A procedure was classified as septic if the patient was presumed to have a PJI on the basis of preoperative or intra-operative findings and was treated with antibiotics for a PJI postoperatively by the orthopaedic surgeon and consulting infectious disease specialist. Septic procedures were further grouped as (1) debridement, antibiotics, irrigation, and im-plant retention (DAIR); (2) 2-stage explant and delayed re-implantation with a temporary antibiotic spacer; (3) implant resection without reimplantation; or (4) unexpected positive cultures at revision surgery. Patients initially treated with DAIR but then treated with a 2-stage explantation procedure within the following year were classified as having a 2-stage revision. Additionally, patients in the unexpected positive cultures group were only included in the septic cohort if they were treated postoperatively for suspected deep infection with long-term antibiotics by our infectious disease physicians. Patients who underwent multiple revisions within the 19-year collection window were grouped into either the aseptic or septic cohort according to the classification of their first revision within the period.
+
+     Altogether, a total of 1,160 revision shoulder arthroplasty procedures were included within the analysis, with 907 (78.2%) of those being classified as aseptic and 253 (21.8%) as septic (Table I). Of those in the septic group, 155 (61.3%) un-derwent a 2-stage exchange, 66 (26.1%) had unexpected pos-itive cultures, 23 (9.1%) were treated with DAIR, and 9 (3.6%) had an implant resection. In the septic cohort, 85.4% of patients were found to have at least 1 positive culture. Cuti-bacterium acnes was the most common bacterium and was observed in 64.4% of infected shoulders, whereas coagulase-negative staphylococci were the second most common bacteria and were cultured in 23.6% of infections (Table II). Poly-microbial infections constituting more than 1 bacterium other than C. acnes were rare (n = 12, 5.6%).
+
+Mortality
+
+Patient survival and all-cause mortality events were captured through routine contacts by the registry, and confirmed when needed with use of a nationwide mortality database (Accurint by LexisNexis). When utilizing the nationwide database, a 6-month lag period was included in order to ensure that all deaths were given an appropriate interlude to be recorded accurately, similar to the methodology in previous studies16. Time-to-death calculations were performed according to the first revision surgery for patients in the aseptic, DAIR, resec-tion, and unexpected culture groups. For patients in the 2-stage septic group, the date of reimplantation was utilized as the start of their timeline, as this was the point at which they were
+routinely captured by our Total Joint Registry Database. Utili-zation of the explantation date as the start of the mortality timeline in 2-stage patients was avoided because it could lead to an immortal time bias whereby patients were inaccurately attributed extra survival time prior to enrollment, since by definition all subjects must have survived that time period in order to be captured by the registry18. Baseline patient demo-graphics, severity- and age-weighted Charlson Comorbidity Index, and infection characteristics were extracted from our registry and by chart review.
+
+Statistical Analysis
+
+Kaplan-Meier analyses were utilized to compare overall survi-vorship between groups of interest with up to 5 years of follow-up and to report mortality rates at 90 days, 1 year, 2 years, and 5 years post-revision. The log-rank test was utilized to determine if observed crude mortality rates were significantly different between cohorts within these analyses. In order to understand the independent association of shoulder PJI with mortality, Cox logistic regression was utilized in order to build multivari-able models adjusted for age, sex, body mass index, smoking, American Society of Anesthesiologists (ASA) score, and severity-and age-weighted Charlson Comorbidity Index when possible, with the number of adjusters dependent on the number of mortality events within the period of interest. Finally, possible associations between patient and infection characteristics with mortality following shoulder PJI were assessed with use of uni-variate Cox regression with variables of interest. In all analyses, significance was set at 0.05. All statistical analyses were per-formed with use of SAS (version 9.4M6; SAS Institute) and R (version 3.6.2; R Foundation for Statistical Computing).
+
+
+Source of Funding
+No external funding was utilized for this project.
+
+Results
+
+The baseline patient demographics were significantly dif-ferent between the cohorts (Table I). The septic cohort had a significantly lower mean age at the time of surgery (62 years) and a significantly greater proportion of male patients (68%) compared with the aseptic cohort (67 years and 43%; p
+
+< 0.001 for both comparisons). The severity- and age-weighted Charlson Comorbidity Index was significantly lower in the septic group. The ASA score, body mass index, and smoking status did not differ significantly between the cohorts.
+
+     A total of 26 of 253 patients in the septic cohort and 92 of 907 patients in the aseptic cohort had died at the time of the latest follow-up. Kaplan-Meier curves produced an estimated 1-year mortality rate of 2.8% (95% confidence interval [CI], 0.7% to 4.8%) in the septic cohort and 1.8% (95% CI, 0.9% to
+
+2.6%) in the aseptic cohort; these crude rates were not signif-icantly different (p = 0.31) (Table III, Fig. 1). The log-rank test did not demonstrate any significant differences between the unadjusted crude mortality rates of the groups at any point.
+
+     Multivariate Cox regression analysis demonstrated an elevated but statistically similar adjusted hazard ratio (HR) for 1-year all-cause mortality of 1.89 (95% CI, 0.77 to 4.62) for the septic compared with the aseptic cohort (p = 0.17) (Table IV). The 2-year risk of all-cause mortality was significantly higher in the septic group, with an HR of 2.21 (95% CI, 1.09 to 4.47; p = 0.029). At 5 years, the risk of all-cause mortality remained higher in the septic group (HR, 1.47; 95% CI, 0.93 to 2.32), although this trend did not reach significance (p = 0.10). When eliminating patients with unexpected positive cultures from the analysis, the overall results were similar except that all-cause mortality re-mained significantly higher in the septic group at 5 years.
+
+     In the septic cohort, univariate Cox regression analysis did not find any associations between all-cause mortality at 1, 2, or 5 years and sex, body mass index, or Gram-negative infec-tion (see Appendix 1). As expected, patient age was associ-ated with mortality at 2 and 5 years, whereas the Charlson Comorbidity Index were associated with increased mortality at all time intervals. Notably, infections with C. acnes only were associated with a significantly lower risk of mortality at 2 years (HR, 0.11; 95% CI, 0.01 to 0.83; p = 0.033) and at 5 years (HR, 0.29; 95% CI, 0.11 to 0.77; p = 0.012) (Table V). A methicillin-resistant Staphylococcus aureus (MRSA) infection was associ-ated with a significantly increased risk of mortality at all time points (HR, 9.62; 95% CI, 1.87 to 49.6; p = 0.007 at 1 year). There was a trend toward a higher 2-year mortality rate in patients with polymicrobial infection, although this did not reach significance (p = 0.076). Mortality rates differed between procedure types in the septic group and were highest among patients who underwent resection (Fig. 2).
+
+Discussion
+
+As the number of shoulder arthroplasty procedures con-tinues to grow1-3, it is important to understand the potential adverse effect of shoulder PJI because the prevalence Kaplan-Meier 5-year survivorship curves for the septic and aseptic cohorts. These unadjusted rates demonstrate the trend toward increased all-cause mortality in the septic cohort, although the crude rates were statistically similar (p > 0.05).
+of this complication will certainly increase accordingly4. The results of the present study indicate that, after adjusting for baseline differences between cohorts, patients undergoing re-vision arthroplasty for shoulder PJI are more than twice as
+likely to die within 2 years of surgery compared with those undergoing an aseptic revision. These findings confirm our hypothesis that shoulder PJI is associated with increased mor-tality risk. Further, not all shoulder PJIs have an equal impact on patients, as MRSA infections were associated with a mortality risk that was 9.6 times greater than that for other infections, and isolated C. acnes infections were associated with a mortality risk that was 0.1 times that for other organisms.
+
+     The lower-extremity arthroplasty literature has previously shown significantly higher mortality rates among patient with hip and knee PJI16,17. An institutional registry study observed an adjusted odds ratio for 1-year mortality of 5.9 in patients under-going septic versus aseptic revision lower-extremity arthroplasty. Additionally, a study from the Danish Joint Registry observed an adjusted odds ratio for mortality of 1.87 in patients undergoing revision total hip arthroplasty for PJI17. We chose to utilize Cox regression and hazard ratios in our study in order to better eval-uate the changes in mortality rate over time19, making it impossible to directly compare the magnitudes of effects between studies. However, the results of the present study agree with the overall trend that PJI is associated with increased all-cause mortality.
+
+     The previous 2 studies from the lower-extremity arthro-plasty literature demonstrated significantly increased mortality rates in the septic cohorts within 1 year of revision surgery, whereas the present study showed no significant difference until 2
+
+
+years postoperatively. It is impossible to know if this discrepancy represents a true underlying difference between lower and upper-extremity PJI because the discrepancy could be explained by the smaller sample sizes of the present cohorts and the overall scarcity of mortality events, and because there was a nonsignificant but elevated rate of 1-year all-cause mortality in the septic cohort (HR, 1.89; 95% CI, 0.77 to 4.62; p = 0.17). However, 1 prior study found that the elevated mortality rates in the septic cohort were limited to the first postoperative year and disappeared beyond that time frame16, whereas our observations became stronger between 1 and 2 years. These differences could be a result of the different analytic methods utilized in the present study or could highlight that shoulder PJI carries an increased risk of mortality that is smaller in magnitude but more extended in duration.
+
+     Interestingly, the previously observed 1-year mortality rates for aseptic revision total hip arthroplasty (5%; 95% CI, 4% to 6%) and septic revision total hip arthroplasty (8%; 95% CI, 6% to 11%)17 were substantially higher than those observed at 1 year in the present study (septic cohort: 2.8%; 95% CI, 0.7% to 4.8%; aseptic cohort: 1.8%; 95% CI, 0.9% to 2.6%). This difference highlights the greater toll associated with revision total hip arthroplasty, which is likely a result of the larger magnitude of the revision procedure; notably, the prior study highlighted that even patients undergoing aseptic revi-sion total hip arthroplasty had higher 1-year mortality than those who did not require revision17. In contrast, the present study showed revision shoulder arthroplasty mortality rates that were similar to the previously reported 1-year mortality rates of 2% to 3.8% following primary shoulder arthro-plasty12,13. Notably, the previously reported 5-year mortality rate following lower-extremity revision arthroplasty for PJI (26.1%) was substantially higher than that observed in our shoulder PJI cohort (11.5%)16, suggesting that lower-extremity PJI may have an overall greater impact on mortality.
+
+     In the present study, patients with an MRSA infection had a substantially elevated risk of mortality (HR, 9.62). This elevated risk may be a result of the increased renal failure, hemodynamic instability, and mortality associated with MRSA versus methicillin-susceptible S. aureus (MSSA) bacteremia in critically ill patients20. In contrast, a prior study did not find a higher risk of mortality with S. aureus, although these authors did not separate patients into MSSA and MRSA subgroups17. Zmistowski et al. also did not find increased mortality rates with MRSA, but instead found polymicrobial infections to be associated with mortality16. In the present study, polymicrobial infections constituting multiple flora other than C. acnes were rare (5.6%, n = 12) but also trended toward an increased 2-year mortality rate (HR, 3.96; p = 0.076). The present results were notable for the dramatically lower mortality rates in patients with isolated C. acnes infections, an organism less prevalent in previous lower-extremity studies and thus not specifically ana-lyzed previously. The unique flora in and contribution of C. acnes to shoulder PJI have long been known5,7,16, but these results provide additional evidence that C. acnes represents a funda-mentally different infection. Although shoulder PJI secondary to C. acnes can certainly cause pain and morbidity associated with implant failure, it does not appear to bring with it the increased mortality risk seen with other infections. Increased age and comorbidity scores were both associated with increased mor-tality following shoulder PJI, consistent with previous literature reporting similar associations with mortality following primary shoulder arthroplasty12,15,21.
+
+     The strengths of the present study include the use of all revision shoulder arthroplasty procedures of interest over a 19-year period, giving us the scale necessary to evaluate mortality. However, even with this large scope, our analyses were limited by the rare nature of death following revision shoulder arthroplasty in general. We did not complete a formal power analysis because we planned to use all available patients, and it is possible that aspects of the analysis could be underpowered. This under-powering could have impacted several analyses, such as 1-year mortality, for which the number of deaths was still relatively low, making it possible to accept the null hypothesis inappropriately. Additional limitations of this study include defining patients in the septic group according to how they were treated by the infectious disease and orthopaedic surgery teams at the time, instead of by utilizing a formally defined criterion. Although the Musculoskeletal Infection Society22 framework has proved im-portant for lower-extremity infections, these criteria do not apply to the unique characteristics and flora of shoulder PJI and are not routinely utilized there. Instead, we ultimately relied on the decision-making of the teams treating the patients at the time of surgery to group them into the septic and aseptic cohorts. If anything, the inclusion of some patients in the septic cohort who were not truly infected would underestimate the impact of shoulder PJI on mortality. An additional limitation was our inability to complete subgroup analyses of patients on the basis of the type of implant they had prior to revision, as implant type can affect the relative invasiveness of the revision procedure. Addi-tionally, our 2 cohorts did have baseline differences, and although we worked to adjust for these with regression analysis, a study methodology relying on matching patients would have minimized this discrepancy. A final limitation is the retrospective nature of the study, which could have led to unanticipated selection bias.
+
+Conclusions
+
+Shoulder PJI was associated with an increased adjusted 2-year all-cause mortality rate, which was particularly magnified in patients with MRSA infections. This information can be helpful for counseling patients considered at risk for infection and when discussing the prognosis with patients with a shoulder PJI. Additional studies are needed to further understand the mech-anisms associated with increased mortality and shoulder PJI so that new interventions can be developed to mitigate this risk.
+
